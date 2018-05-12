@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '40775'
     url: http://www.gutenberg.org/2009/agents/40775
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/41854#Polly-the-PaganHer-Lost-Love-Letters
 gutenberg_issued: '2013-01-16'
 gutenberg_type: Text
 identifiers:
