@@ -1,0 +1,30 @@
+_repo: Polly-the-PaganHer-Lost-Love-Letters_41854
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 41854-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Anderson, Isabel
+    birthdate: 1876
+    deathdate: 1948
+    gutenberg_agent_id: '40775'
+    url: http://www.gutenberg.org/2009/agents/40775
+description: ''
+gutenberg_issued: '2013-01-16'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '41854'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Diary fiction'
+- !lcsh 'Young women -- Fiction'
+- !lcsh 'Epistolary fiction'
+- !lcc 'PS'
+- !lcsh 'Americans -- Europe -- Fiction'
+- !lcsh 'Love stories'
+title: 'Polly the Pagan: Her Lost Love Letters'
+url: http://www.gutenberg.org/ebooks/41854
